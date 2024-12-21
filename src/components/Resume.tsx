@@ -41,7 +41,7 @@ const Resume = () => {
           {/* Right Image */}
           <div className="relative h-[400px] lg:h-[500px]">
             <Image
-              src="/images/trainee-new.webp"
+              src="/images/trainee-new.jpg"
               alt="Resume Preview"
               fill
               className="object-contain"

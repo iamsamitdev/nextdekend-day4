@@ -20,7 +20,7 @@ const Hero = () => {
                 <div className="absolute top-8 left-0 w-[180px] h-[180px] animate-float-1">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-1.webp"
+                      src="/images/hero-1.png"
                       alt="Student with megaphone"
                       fill
                       className="object-contain"
@@ -31,7 +31,7 @@ const Hero = () => {
                 <div className="absolute top-8 right-0 w-[180px] h-[180px] animate-float-2">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-2.webp"
+                      src="/images/hero-2.png"
                       alt="Professional in white shirt"
                       fill
                       className="object-contain"
@@ -42,7 +42,7 @@ const Hero = () => {
                 <div className="absolute top-[220px] left-1/2 -translate-x-1/2 w-[180px] h-[180px] animate-float-3">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-3.webp"
+                      src="/images/hero-3.png"
                       alt="Student with phone"
                       fill
                       className="object-contain"
@@ -57,7 +57,7 @@ const Hero = () => {
                 <div className="absolute top-0 left-0 w-[320px] h-[320px] animate-float-1">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-1.webp"
+                      src="/images/hero-1.png"
                       alt="Student with megaphone"
                       fill
                       className="object-contain"
@@ -68,7 +68,7 @@ const Hero = () => {
                 <div className="absolute top-12 right-0 w-[280px] h-[280px] animate-float-2">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-2.webp"
+                      src="/images/hero-2.png"
                       alt="Professional in white shirt"
                       fill
                       className="object-contain"
@@ -79,7 +79,7 @@ const Hero = () => {
                 <div className="absolute bottom-0 right-24 w-[280px] h-[280px] animate-float-3">
                   <div className="relative w-full h-full">
                     <Image
-                      src="/images/hero-3.webp"
+                      src="/images/hero-3.png"
                       alt="Student with phone"
                       fill
                       className="object-contain"

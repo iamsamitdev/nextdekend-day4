@@ -16,18 +16,18 @@ const newsItems: NewsItem[] = [
     isNew: true
   },
   {
-    title: 'Dekend ร่วมงาน Northern Job Fair 2024 @ Phayao',
+    title: 'Dekend ครบรอบก่อนตั้ง Yamaha Thailand 2025',
     image: '/images/news/news2.webp',
     link: '#',
     isNew: true
   },
   {
-    title: 'อัพเดทระบบ "AI match"',
+    title: 'ภาษีเรื่องสำคัญที่นักศึกษาก็ควรเรียนรู้ไว้"',
     image: '/images/news/news3.jpg',
     link: '#',
   },
   {
-    title: 'อัพเดทระบบ "Verified Account"',
+    title: '6 สิ่งที่นักศึกษาควรมีติดตัวไว้ หลังจากฝึกงาน"',
     image: '/images/news/news4.jpg',
     link: '#',
   }
